@@ -1,0 +1,6 @@
+numpy>=2.0.0
+scikit-learn>=1.5.0
+opencv-python>=4.10.0
+joblib>=1.4.0
+pistreamlit>=1.38.0
+pillow>=10.0.0
